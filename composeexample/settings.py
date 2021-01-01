@@ -25,7 +25,7 @@ SECRET_KEY = 'eap(0(%9wwe57rv$h#w8=h%7#-5n7to_lhxhs@1tmdh6^_z^$y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['165.227.134.253']
 
 
 # Application definition
